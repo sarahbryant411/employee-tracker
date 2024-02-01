@@ -12,6 +12,10 @@ The employee tracker application is a console/terminal application.
 
 #### Link to the walkthrough video:
 
+https://drive.google.com/file/d/1va3RvF2fTcYlRTny06y4evI7GJGYnrhT/view
+
+
+
 
 
 
